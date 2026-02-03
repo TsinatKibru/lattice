@@ -101,4 +101,4 @@ If you encounter issues or have questions:
 - Check the [Project Walkthrough](file:///home/calm/.gemini/antigravity/brain/a6af4898-5fa0-4bae-9e0e-a608c25b16bb/walkthrough.md) for deep technical details.
 
 ---
-*Built with ❤️ by the Lattice Team.*
+*Built with ❤️ by [TsinatKibru](https://github.com/tsinatkibru).*
