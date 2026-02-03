@@ -1,0 +1,27 @@
+# Common
+.DS_Store
+node_modules/
+dist/
+.env
+*.log
+
+# Backend specific
+backend/node_modules/
+backend/dist/
+backend/.env
+backend/*.log
+
+# Mobile specific
+mobile/.dart_tool/
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies
+mobile/.packages
+mobile/build/
+mobile/.idea/
+mobile/*.iml
+mobile/android/.gradle
+mobile/ios/Flutter/Generated.xcconfig
+mobile/ios/Flutter/flutter_export_environment.sh
+
+# Docker
+docker-compose.override.yml
